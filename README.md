@@ -1,4 +1,4 @@
-# C&ESAR 2018 : INTELLIGENCE ARTIFICIELLE ET CYBERSECURITE (19/11/2018 au 21/11/2018)
+# Meetup ML Rennes : Présentation CBWAR du 21/01/2019
 
 <div align="center">
   <img src="https://github.com/silicom-ia/MeetupMLRennes2019/blob/master/MeetupMLRennes_20190121_CBWAR.jpg"><br><br>
@@ -10,6 +10,6 @@ Les éléments diffusés lors de la présentation d'Olivier Gesny le 20/11/2018 
 * _CBWAR_C&ESAR_SlightDemo.7z_ (https://github.com/silicom-ia/CESAR_2018/blob/master/CBWAR_C%26ESAR_SlightDemo.7z) : la vidéo diffusée en cours de présentation.
 
 Le lien vers le meetup :
-* https://www.cesar-conference.org/?page_id=6
+* https://www.meetup.com/fr-FR/Meetup-Machine-Learning-Rennes/events/257280480/
 
 
